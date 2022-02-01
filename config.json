@@ -1,0 +1,8 @@
+{
+	"words_url": "https://raw.githubusercontent.com/fragilecopy/funny_words_json/master/words.json",
+	"download_at_startup": true,
+	"port": 1025,
+	"allow_fetching_all": true,
+	"allow_cword": true,
+	"allow_words": true
+}

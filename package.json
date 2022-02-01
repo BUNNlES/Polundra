@@ -1,0 +1,12 @@
+{
+  "name": "Polundra",
+  "version": "1.0.0",
+  "description": "REST server for funny-words.",
+  "main": "index.js",
+  "license": "Custom, see LICENSE.",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "2.6.6"
+  }
+}
